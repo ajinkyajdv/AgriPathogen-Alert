@@ -1,5 +1,5 @@
 # AgriPathogen-Alert
-# Tomato Plant Disease Prediction System
+# Tomato Plant Disease Detection System
 Utilized Machine Learning (ML) techniques, including Convolutional Neural Networks (CNN), to power an interactive website using Streamlit. This combination enables real-time image analysis, enhancing user engagement through dynamic content and visual insights. 
 
 
